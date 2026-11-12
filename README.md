@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square" alt="License">
 </p>
 
-*A local-first, truth-conditional natural language understanding engine powered by symbolic primitives and a lightweight neural presentation layer.*
+*Solutions to Codeforces and ICPC questions for competition preparation.*
 
 </div>
 This is a project with the aim of training Codeforces and ICPC questions for the South Central USA Regional Division in hopes of not only gaining a high ELO rating on Codeforces, but also advancing to nationals and world finals in ICPC. This means that this repository will contain fully solved solutions to publicly known Codeforces and ICPC questions. As such, we give credit to the two organizations, respectively, for such questions. The questions that we are solving have long been documented and the solutions to them are widely available and published online (ICPC competition questions are released with their solutions very shortly after each competition).
